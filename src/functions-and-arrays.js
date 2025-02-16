@@ -289,7 +289,7 @@ function greatestProduct(matrix) {
 console.log (greatestProduct(matrix));
 console.log (greatestProduct(matrixProva));
 
-//Bonus - Iteration #8.2: Product of diagonals
+//Iteration #8.2: Product of diagonals
 function greatestProductOfDiagonals(matrix) {
   let multiD = 0;
   for (let i = 0; i < matrix.length; i++) {
